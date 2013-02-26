@@ -25,4 +25,8 @@ f
 sa
 df
 
+<<<<<<< HEAD
 ### test feature-user-b
+=======
+### test feature-user-a
+>>>>>>> origin/feature/feature-user-a
