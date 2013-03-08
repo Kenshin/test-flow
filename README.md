@@ -31,5 +31,7 @@ df
 ### test feature-user-a
 >>>>>>> origin/feature/feature-user-a
 
-modify test by KEN-WORK3  
-modify test by KEN-WORK3 for MinGW
+* modify test by KEN-WORK3
+* modify test by KEN-WORK3 for MinGW
+* modify test start test03 by KEN-WORK3 for MinGW
+* modify test start test03 by KEN-WORK3 for MinGW again
