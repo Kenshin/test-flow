@@ -38,3 +38,4 @@ df
 * add xxxxx by KEN-WORK5 for MinGW
 *
 * add xxxxx by KEN-WORK3 for MinGW
+* add xxxxx by KEN-WORK1 for MinGW
